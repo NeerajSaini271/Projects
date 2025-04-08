@@ -14,7 +14,7 @@ A simple front-end clone of Amazon’s homepage.
 
 📂 **Project Directory:** [Amazon Clone](https://github.com/NeerajSaini271/Projects/tree/main/Amazon%20Clone)  
 📸 **Screenshot:**  
-![Amazon Clone](https://raw.githubusercontent.com/NeerajSaini271/Projects/main/Amazon%20Clone/assets/Images/Amazon%20Clone.png)  
+![Amazon Clone](https://github.com/NeerajSaini271/Projects/blob/847afff779275bf657bc7c794789c448de6fc331/Amazon%20Clone/Images/Amazon%20Clone.png)  
 
 ---
 
