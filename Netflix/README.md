@@ -8,7 +8,7 @@ This is a front-end Netflix clone built using **HTML and CSS**.
 - Works on both desktop and mobile  
 
 ## 📸 Screenshots
-![Netflix Clone Screenshot](URL-to-screenshot)
+![Netflix Clone Screenshot](https://raw.githubusercontent.com/NeerajSaini271/Projects/main/Netflix/assets/Images/Netflix%20Clone.png)
 
 ## 🛠️ Technologies Used
 - HTML5  
